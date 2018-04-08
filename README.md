@@ -7,4 +7,4 @@ There are 2 iPython notebooks:
 
 2) `Logistic Regression using Gradient Descent.ipynb`: Notebook implements Logistic Regression on a real-world dataset containing sonar recordings and the corresponding label ('Rock' or 'Mine')
 
-Dataset: http://archive.ics.uci.edu/ml/datasets/connectionist+bench+(sonar,+mines+vs.+rocks)
+Source of Data: http://archive.ics.uci.edu/ml/datasets/connectionist+bench+(sonar,+mines+vs.+rocks)
