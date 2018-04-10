@@ -2,10 +2,10 @@
 
 Implementing following Machine Learning techniques:
 
-• Logistic Regression
-• Gradient Descent
-• Regularization
-• K-Fold Cross-Validation
+• Logistic Regression  
+• Gradient Descent  
+• Regularization  
+• K-Fold Cross-Validation  
 
 Sci-kit learn has not been used in order to implement the learning algorithm from scratch.
 
