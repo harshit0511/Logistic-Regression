@@ -1,6 +1,7 @@
 # Logistic-Regression-using-Gradient-Descent
 
-Implementing following Machine Learning techniques:
+Implementing following Machine Learning techniques
+
 • Logistic Regression
 • Gradient Descent
 • Regularization
