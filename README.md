@@ -1,14 +1,13 @@
 # Logistic-Regression-using-Gradient-Descent
 
-Implementing following Machine Learning techniques
+Implementing following Machine Learning techniques:
 
-• Logistic Regression
-
+<div>• Logistic Regression
 • Gradient Descent
 
 • Regularization
 
-• K-Fold Cross-Validation
+• K-Fold Cross-Validation</div>
 
 Sci-kit learn has not been used in order to implement the learning algorithm from scratch.
 
