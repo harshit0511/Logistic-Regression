@@ -1,4 +1,4 @@
-# Logistic-Regression-using-Gradient-Descent
+# Logistic Regression using Gradient Descent
 
 Implementing following Machine Learning techniques:
 
